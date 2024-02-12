@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "smart-motors"
-  }
+    "default": "smartmotorsplus",
+    "smart-motors-plus": "smartmotorsplus"
+  },
+  "targets": {},
+  "etags": {}
 }
